@@ -1,15 +1,24 @@
 {
   "name": "hc-books-project",
   "version": "1.0.0",
-  "description": "",
+  "description": "Projeto para fixação de conhecimentos",
   "main": "app.js",
   "scripts": {
-    "test": "node app.js"
+    "start": "node app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Taka/Matheus Takasaki",
   "license": "ISC",
   "dependencies": {
     "readline-sync": "^1.4.10"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheustakasaki/books-project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/matheustakasaki/books-project/issues"
+  },
+  "homepage": "https://github.com/matheustakasaki/books-project#readme"
 }
